@@ -14,11 +14,13 @@ Here are some examples of the Volume Profile indicator in action:
 *4-hour chart demonstrating longer-term volume distribution and support/resistance levels*
 
 ![30-Minute Chart](screenshots/30min_chart.png)
-*30-minute chart with volume profile and cumulative delta visualization*
+*30-minute chart with volume profile*
 
 ## Acknowledgments
 
 This project is based on the excellent work of Gabriel Zenobi's [CSharp-NT8-OrderFlowKit](https://github.com/gbzenobi/CSharp-NT8-OrderFlowKit). While the original project provided a solid foundation, this version includes:
+
+
 
 - Performance optimizations for better real-time data handling
 - Bug fixes for various edge cases and stability issues
@@ -32,6 +34,8 @@ This project is based on the excellent work of Gabriel Zenobi's [CSharp-NT8-Orde
 - `FlexibleVolumeAnalysisProfile.cs` - Flexible volume analysis implementation
 - `Bookmap.cs` - Bookmap visualization and analysis
 - `VolumeFilter.cs` - Volume filtering functionality
+
+While this project builds upon Gabriel Zenobi's [CSharp-NT8-OrderFlowKit](https://github.com/gbzenobi/CSharp-NT8-OrderFlowKit), the core `VolumeProfileLines.cs` component is an original implementation created by me
 
 ## Installation
 
