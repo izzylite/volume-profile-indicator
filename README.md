@@ -11,10 +11,10 @@ Here are some examples of the Volume Profile indicator in action:
 *15-minute chart showing volume profile with price action and key levels*
 
 ![240-Minute Chart](screenshots/240min_chart.png)
-*4-hour chart demonstrating longer-term volume distribution and support/resistance levels*
+*4-hour chart showing monthly volume profile demonstrating longer-term volume distribution and support/resistance levels*
 
 ![30-Minute Chart](screenshots/30min_chart.png)
-*30-minute chart with volume profile*
+*30-minute chart with volume profile of daily and weekly timeframes*
 
 ## Acknowledgments
 
